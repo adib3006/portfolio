@@ -1,0 +1,65 @@
+[
+    {
+        "id":"01",
+        "title":"Phone Mart",
+        "image1":"https://i.ibb.co/M5hM2bR/phone-mart.png",
+        "image2":"https://i.ibb.co/kcZPjzc/pm2.png",
+        "image3":"https://i.ibb.co/mS5jWj5/pm3.png",
+        "description": "Features : Fully responsive and customizable product add section and manage section Home page features a Navbar, Slider, Advertisement Section conditional, categories, award section and a footer. User can signup as Seller or Buyer. User can buy a product and see them in dashboard under my orders route. They can make payment from there. they can also report to admin about a product. Sellers can add products and Manage Products in the dashboard. They can edit the avalability state of a product and for all available products they can hit advertise to make in go on the advertisement section. Admin can see all buyers and sellers and can delete anyone to forbid access. Admin can verify a seller and it will be shown on the products card with a blue tick. Admin can also see reported items and resolve or delete them. Technologies used : React JS and tailwind CSS used.React-router-dom was used to create SPA functionality. Node.js was used in the backend with express.js firebase authentication and JWT authorization was used. MongoDB was used for database.",
+        "siteLink":"https://phone-mart-392a9.web.app/",
+        "githubClient":"https://github.com/adib3006/phone-mart-client",
+        "githubServer":"https://github.com/adib3006/phone-mart-server"
+    },
+    {
+        "id":"02",
+        "title":"Cook Book",
+        "image1":"https://i.ibb.co/7J2HbgH/cook-book.png",
+        "image2":"https://i.ibb.co/k1yYQKM/ck2.png",
+        "image3":"https://i.ibb.co/tQYb2Qm/ck3.png",
+        "description":"Overview: Cook Book is a cloud based kitchen providing delicious food at very competitive price. Users can review and later edit their response using this website. Users can also add their desired item in the website. key features: build entirely with react js. responsive design. email/password and google authentication enabled using firebase. separate review section for each item. DaisyUI for front-end. additional features private route. auto navigation upon login. add service or item facility for users.",
+        "siteLink":"https://cook-book-bd83d.web.app/",
+        "githubClient":"https://github.com/adib3006/cook-book-client",
+        "githubServer":"https://github.com/adib3006/cook-book-server"
+    },
+    {
+        "id":"03",
+        "title":"Course Zone",
+        "image1":"https://i.ibb.co/ns9zfXZ/course-zone.png",
+        "image2":"https://i.ibb.co/w7GyhhD/cz2.png",
+        "image3":"https://i.ibb.co/NsQ803w/cz3.png",
+        "description":"Build using: React, React routers, Context API, Lottie react, React hot toast, FIrebase. additional functionalitites: Four fire base authentication systems used Private routers implemented for security Responsive for PC and mobile devices. sections: home : it has a header part with text and animation lottie. another part is topics list. each course is clickable and navigate user to selected course detail page. PDF downloading facility implemented. blog section answers four given questions.",
+        "siteLink":"https://course-zone.web.app/",
+        "githubClient":"https://github.com/adib3006/course-zone-client",
+        "githubServer":"https://github.com/adib3006/course-zone-server"
+    },
+    {
+        "id":"04",
+        "title":"Quiz Ninja",
+        "image1":"https://i.ibb.co/8jQ5n2f/quiz.png",
+        "image2":"https://i.ibb.co/ykf66H6/qn2.png",
+        "image3":"https://i.ibb.co/dmvKCNS/qn3.png",
+        "description":"Build using: React, React routers, tailwind css, additional functionalitites: toast used to short result instantly reCharts used to show statistics sections: home. topics: it has a header part with text and animation (lottie). another part is topics list. each topic has a button to navigate user to selected topic related quiz page. quiz page will provide different MCQ type questions with results showcase function using toast. statistics part allows user to see question per topic data. blog section answers three FAQs.",
+        "siteLink":"https://quiz-ninja-adnan.netlify.app/",
+        "githubClient":"https://github.com/adib3006/quiz-ninja"
+    },
+    {
+        "id":"05",
+        "title":"Sun Shine Fitness",
+        "image1":"https://i.ibb.co/b7NyvB5/fitness.png",
+        "image2":"https://i.ibb.co/s5YPq1f/ssf2.png",
+        "image3":"https://i.ibb.co/kJj7fC8/ssf3.png",
+        "description":"Single Page Application build to track and achieve personal fitness. It can be a virtual coach for yourself. The site is build with react.js",
+        "siteLink":"https://sun-shine-fitness-adnan.netlify.app/",
+        "githubClient":"https://github.com/adib3006/sun-shine-fitness"
+    },
+    {
+        "id":"06",
+        "title":"Eagle News",
+        "image1":"https://i.ibb.co/0nG3Y8v/news.png",
+        "image2":"https://i.ibb.co/ThmBJSs/en2.png",
+        "image3":"https://i.ibb.co/7pCb5VT/en3.png",
+        "description":"A demo news portal fully dynamic with Various news from international and local sources.",
+        "siteLink":"https://eagle-news-adnan.netlify.app/",
+        "githubClient":"https://github.com/adib3006/eagle-news"
+    }
+]
